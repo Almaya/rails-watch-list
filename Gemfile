@@ -73,3 +73,4 @@ gem "sassc-rails"
 
 # For Cloudinary secret key
 gem "dotenv-rails", groups: [:development, :test]
+gem "cloudinary"
